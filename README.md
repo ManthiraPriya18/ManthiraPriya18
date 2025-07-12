@@ -1,9 +1,11 @@
-# Hii,I'm ManthiraPriya
+### 👩‍💻 About Me
 
-🎓 I’m a passionate student currently pursuing B.Tech-Artificial Intelligence and Machine Learning.</br>
-🤖 I'm deeply interested in Artificial Intelligence, Backend Development, and Cybersecurity.<br/>
-🌱 Currently sharpening my skills in Python, Flask, SQL, and DSA.</br>
-🛠️ Working on mini projects that involve authentication systems, CRUD operations, and API integration.
+🎓 I’m a passionate student currently pursuing **B.Tech in Artificial Intelligence and Machine Learning**.  
+🤖 I'm deeply interested in **Generative AI, Large Language Models (LLMs)**, and exploring tools like **OpenAI API**, **LangChain**, and **HuggingFace Transformers** to build AI-powered applications.  
+🛠️ Currently working on mini projects involving **authentication systems, CRUD operations, REST APIs**, and planning to integrate **AI/ML functionalities** into real-world use cases.  
+🌱 Continuously sharpening my skills in **Python, Flask, SQL**, and **Data Structures & Algorithms (DSA)** to strengthen my problem-solving abilities and backend engineering knowledge.  
+🚀 Eager to grow as an AI Engineer and contribute to impactful, innovation-driven environments.
+
 
 
 
